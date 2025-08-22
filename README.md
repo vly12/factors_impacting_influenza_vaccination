@@ -12,6 +12,7 @@ It is recommended to familiarise yourself with these models before using the ML 
 For package compatibility, it is recommended for this project to be run on Python 3.13.0.
 
 This repository mostly contains Machine Learning Code as the data extraction and cleaning stages required are specific from dataset to dataset.
+Outputs from the ipynb files are contained within the individual scripts. The outputs do not contravene any data or information governance policies or procedures. 
 
 At the point of using the dataset with the Machine Learning scripts, it is expected for the master dataset to have the following characteristic:
 
