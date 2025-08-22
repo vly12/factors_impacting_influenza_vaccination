@@ -1,6 +1,14 @@
 # factors_impacting_influenza_vaccination
 The objective of this project is to analyse the patient factors/features 'Age', 'Sex', 'SIMD' and 'UR8' in relation to their impact on the uptake of the influenza vaccination. 
 
+The scripts contained in this repository shows the training, testing and output of the 3 Machine Learning Models:
+
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+It is recommended to familiarise yourself with these models before using the ML code.
+
 For package compatibility, it is recommended for this project to be run on Python 3.13.0.
 
 This repository mostly contains Machine Learning Code as the data extraction and cleaning stages required are specific from dataset to dataset.
