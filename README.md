@@ -9,17 +9,17 @@ At the point of using the dataset with the Machine Learning scripts, it is expec
 
 The variables as follows:
 
-cohort_group_ML_analysis - The respective cohort groups (18_TO_64_FLU_AT_RISK, HEALTH_CARE_WORKERS, etc.)
+- cohort_group_ML_analysis - The respective cohort groups (18_TO_64_FLU_AT_RISK, HEALTH_CARE_WORKERS, etc.)
 
-patient_sex	- Male or Female in integer form 0 (Male) or 1 (Female)
+- patient_sex	- Male or Female in integer form 0 (Male) or 1 (Female)
 
-patient_age	- Continuous variable in integer form
+- patient_age	- Continuous variable in integer form
 
-SIMD_quintile - integer 1 to 5
+- SIMD_quintile - integer 1 to 5
 
-UR8_2022	- integer 1 to 8 
+- UR8_2022	- integer 1 to 8 
 
-attended_vaccination_event - attended vaccination boolean (TRUE or FALSE) in integer form  0 (FALSE) or 1 (TRUE)
+- attended_vaccination_event - attended vaccination boolean (TRUE or FALSE) in integer form  0 (FALSE) or 1 (TRUE)
 
 
 
